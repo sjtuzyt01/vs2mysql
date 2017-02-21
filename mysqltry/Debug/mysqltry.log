@@ -1,0 +1,5 @@
+﻿  mysqltry.cpp
+c:\users\dell\documents\visual studio 2015\projects\mysqltry\mysqltry\mysqltry.cpp(130): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+c:\users\dell\documents\visual studio 2015\projects\mysqltry\mysqltry\mysqltry.cpp(146): warning C4018: “<”: 有符号/无符号不匹配
+  mysqltry.vcxproj -> c:\Users\DELL\documents\visual studio 2015\Projects\mysqltry\Debug\mysqltry.exe
+  mysqltry.vcxproj -> c:\Users\DELL\documents\visual studio 2015\Projects\mysqltry\Debug\mysqltry.pdb (Full PDB)
